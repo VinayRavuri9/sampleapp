@@ -1,7 +1,7 @@
 name: Debug Workflow 3
 
-on:
-  workflow_dispatch:
+on: [push]
+  #workflow_dispatch:
 
 jobs:
   build-job:
