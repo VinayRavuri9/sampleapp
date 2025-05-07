@@ -2,6 +2,7 @@ name: Debug Workflow 3
 
 on: [push]
   #workflow_dispatch:
+  #tags added
 
 jobs:
   build-job:
